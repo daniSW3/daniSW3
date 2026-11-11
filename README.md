@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate Data Scientist/Anayst</h3>
+<h3 align="center">A passionate Data Engineer /Anayst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danisw3&label=Profile%20views&color=0e75b6&style=flat" alt="danisw3" /> </p>
 
